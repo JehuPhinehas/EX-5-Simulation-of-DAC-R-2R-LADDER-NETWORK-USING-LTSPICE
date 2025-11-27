@@ -32,9 +32,7 @@
 
 ---
 ## DESIGN
-
 ![WhatsApp Image 2025-11-27 at 7 46 40 PM](https://github.com/user-attachments/assets/6ae14994-3390-4d16-a5d6-0e2ad85c0323)
-
 
 ![WhatsApp Image 2025-11-27 at 7 46 54 PM](https://github.com/user-attachments/assets/d431b19b-73cd-49ba-9c2f-4ddd33a01df7)
 
