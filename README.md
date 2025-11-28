@@ -20,23 +20,25 @@
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 7 44 51 PM](https://github.com/user-attachments/assets/adc8cad3-b518-494e-b4cd-d56b3802e2ae)
----
-## MODEL GRAPH
-<img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
+<img width="1600" height="704" alt="image" src="https://github.com/user-attachments/assets/26c0d6fd-c907-485b-a28a-4e2a776c81b5" />
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/ed35fe23-5690-4fde-a03c-5303d0d75b29" />
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 7 45 48 PM](https://github.com/user-attachments/assets/83d29d98-8793-45ff-b4ce-f83250d8ca4a)
+<img width="1600" height="646" alt="image" src="https://github.com/user-attachments/assets/61e2da9a-e879-4e34-a568-473288476309" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0d55732a-2092-4947-bb83-b7fd3af48e27" />
+
 
 ---
 ## DESIGN
-![WhatsApp Image 2025-11-27 at 7 46 40 PM](https://github.com/user-attachments/assets/6ae14994-3390-4d16-a5d6-0e2ad85c0323)
+<img width="793" height="1280" alt="image" src="https://github.com/user-attachments/assets/d37dc80d-ca3a-4478-a196-a374aa8a22ce" />
+<img width="1600" height="541" alt="image" src="https://github.com/user-attachments/assets/958624f4-2e0f-4300-8c60-6c679ec92f88" />
 
-![WhatsApp Image 2025-11-27 at 7 46 54 PM](https://github.com/user-attachments/assets/d431b19b-73cd-49ba-9c2f-4ddd33a01df7)
 
 
-##RESULT:
+## RESULT:
+<img width="1600" height="701" alt="image" src="https://github.com/user-attachments/assets/35772fca-542d-4d7f-bd7e-0b03ff94af0b" />
+
 Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
 ---
